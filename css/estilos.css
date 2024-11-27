@@ -1,0 +1,78 @@
+body,html{
+
+	
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+}
+.main-container{
+	
+	height: 100%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.main-container > .login,
+.main-container > .hero-body{
+
+	
+
+  background-size: cover;
+	height: auto;
+	width: 100%;
+	max-width: 400px;
+	min-width: 300px;
+}
+
+.form-inline{
+	display: inline-flex;
+	
+}
+table , td, th {
+	border: 1px solid #595959;
+	border-collapse: collapse;
+}
+td, th {
+	padding: 3px;
+	width: 30px;
+	height: 25px;
+}
+th {
+	background: #f0e6cc;
+}
+.even {
+	background: #fbf8f0;
+}
+.odd {
+	background: #fefcf9;
+}
+
+
+head {
+  width: 100%; 
+  height: 150px; 
+  background-color: #f2f2f2; 
+  padding: 20px; 
+}
+.head1{
+	
+
+  width: 100%; 
+  height: 150px; 
+  background-color: #f2f2f2; 
+  padding: 20px; 
+
+}
+.box_login{
+letter-spacing: 2px;
+
+
+}
+
+
+
+
+
+
+
